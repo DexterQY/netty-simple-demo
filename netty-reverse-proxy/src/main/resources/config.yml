@@ -1,0 +1,5 @@
+proxy:
+  - port: 9001
+    proxyPath: http://www.lngbzx.gov.cn
+  - port: 9002
+    proxyPath: https://blog.csdn.net
